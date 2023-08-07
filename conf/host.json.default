@@ -1,0 +1,33 @@
+[
+  {
+    "execute": false,
+    "host": "",
+    "port": null,
+    "username": "",
+    "password": "",
+    "databases": [
+      "database1",
+      "database2"
+    ],
+    "tables": [
+      "table1",
+      "tables2"
+    ],
+    "note": ""
+  },
+  {
+    "execute": false,
+    "host": "",
+    "port": null,
+    "username": "",
+    "password": "",
+    "databases": [
+      "database2"
+    ],
+    "tables": [
+      "table1",
+      "tables2"
+    ],
+    "note": ""
+  }
+]
